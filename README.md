@@ -1,4 +1,6 @@
-### Hi there 👋
+### “God is a comedian playing to an audience that is too afraid to laugh.”
+
+      ― Voltaire 👋
 
 <!--
 **keiji11/keiji11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

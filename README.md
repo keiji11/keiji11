@@ -1,6 +1,8 @@
-### “God is a comedian playing to an audience that is too afraid to laugh.”
+### 👋 Welcome to my GitHub channel! - 🔭 I’m currently working on 42School(Roma) projects using C programming language
 
-      ― Voltaire 👋
+      “God is a comedian playing to an audience that is too afraid to laugh.”
+
+      ― Voltaire
 
 <!--
 **keiji11/keiji11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

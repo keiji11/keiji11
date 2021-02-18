@@ -9,5 +9,7 @@
 
 [![llucente's 42 stats](https://badge42.herokuapp.com/api/stats/llucente?privacyEmail=true&darkmode=true)](https://github.com/keiji11/badge42)
 
-
-<img align="center" width="20%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/source.gif" alt="dino" />
+<p>
+      <img align="left" width="20%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/source.gif" alt="dino" />
+      <img align="right" src="https://media.giphy.com/media/1RusXBZ9CMsxi/source.gif" alt="videodrome" />
+</p>

@@ -1,4 +1,5 @@
-### 👋 Welcome to my GitHub channel! - 🔭 I’m currently working on 42School(Roma) projects using C programming language
+###         👋 Welcome to my GitHub channel! 
+###         - 🔭 I’m currently working on 42School projects using C programming language
 
       “God is a comedian playing to an audience that is too afraid to laugh.”
 

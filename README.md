@@ -5,7 +5,8 @@
 
       ― Voltaire
 
-###         - 🔭 I’m currently working on 42School projects using C programming language
+###         - 🔭 I’m currently working on 42School projects using C C++ Python programming language
+###         -  I’m currently working at KO2 srl - DevOps Python GCP Docker Kubernetes
 
 <p>
       <img align="left" width="20%" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/source.gif" alt="dino" />
